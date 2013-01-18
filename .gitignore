@@ -4,10 +4,6 @@
 *.tgz
 *.zip
 *.bak
-*.classpath
-*.project
 *.sfb
-*.class
-*class
-*/*.class
 *.sfb
+bin/
