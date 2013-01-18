@@ -1,3 +1,4 @@
+<pre>
 This code taken from http://tinyurl.com/ahqb9km and used to 
 create a hopefully more useful example that builds as needed to 
 demonstrate what it does. The person at the referenced web-site 
@@ -17,3 +18,4 @@ a jar from Sun Microsystems is unusual.
 Output Example: 
 Package name: JavaMail(TM) API Design Specification
 Package version: 1.4 
+</pre>
